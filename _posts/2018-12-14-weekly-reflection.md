@@ -12,3 +12,4 @@ date:2018-12-14
 (put-image(rectangle WIDTH HEIGHT "solid" "snow")250 50(rectangle WIDTH 350 "solid" "steelblue"))
 (define LINE2(rectangle HEIGHT 150 "solid" "steelblue"))
 ```
+![FlagImage](/images/flagV2.png)
